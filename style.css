@@ -1,0 +1,18 @@
+/*
+Theme Name: Jamanto Child Example
+Theme URI: https://github.com/gmasson/jamanto-child-example
+Author: Gabriel Masson
+Author URI: https://gmason.github.io/
+Description:  Example of Jamanto's child template
+Version: 1.0
+License: MIT
+License URI: https://github.com/gmasson/jamanto-child-example/blob/master/LICENSE
+Template: jamanto
+*/
+
+/* Header Layout 2 */
+.header-menu-layout-2 {
+  padding: .5em 0;
+  text-align: left;
+  font-size: 1em;
+}
